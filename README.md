@@ -198,4 +198,4 @@ streamlit run dashboard/app.py
 
 **Dipin** — ML Engineer targeting fintech credit risk roles
 - GitHub: [@dipin1144](https://github.com/dipin1144)
-- Project: [Credit Risk Intelligence Engine](https://github.com/dipin1144/credit-risk-intelligence-engine)
+- Project: [Credit Risk Intelligence Engine](https://credit-risk-intelligence-engine.streamlit.app)
